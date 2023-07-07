@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-#### My name is Mike Davis, and I am a Junior Full-Stack Web Developer, with ample experience in HTML, CSS, JavaScript, React, Ruby, and Ruby on Rails. I recently graduated from Flatiron School's Software Engineering program, and I've been keeping myself occupied by acquiring freelance projects and exploring new technologies with each project! For a full list of my work, please visit [my portfolio site](https://mikedavissoftware.com/ "mikedavissoftware.com").
+#### My name is Mike Davis, and I am a Junior Full-Stack Web Developer, with ample experience in HTML, CSS, JavaScript, React, Ruby, and Ruby on Rails. I recently graduated from Flatiron School's Software Engineering program, and I've been keeping myself occupied by acquiring freelance projects and exploring new technologies with each project! For a full list of my work, please visit <a href="https://mikedavissoftware.com/" target="_blank" alt="mikedavissoftware.com">my portfolio site</a>.
 
 
 <!--
