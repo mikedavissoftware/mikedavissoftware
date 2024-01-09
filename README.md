@@ -2,7 +2,7 @@
 
 My name is Mike Davis, and I am a Full-Stack Web Developer, with ample experience in HTML, CSS, JavaScript, React, Ruby, and Ruby on Rails! I recently graduated from Flatiron School's Software Engineering program, and I've been continuing to sharpen my skills through freelance work & independent learning, exploring new technologies with each project. For a curated list of my work, please visit <a href="https://mikedavissoftware.com/" target="_blank">my portfolio website</a>.
 
-I am currently dedicating time each day to learn Python.
+I am currently dedicating time each day to learning more about unit testing in Ruby on Rails.
 
 
 <!--
